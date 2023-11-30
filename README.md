@@ -9,7 +9,6 @@ Minimalist Interface: Embracing simplicity, the design focuses on a clean and mi
 Desktop Optimization: Transitions seamlessly from mobile to desktop, providing a visually appealing presentation on larger screens.
 HTML and CSS Mastery: Leveraging the power of HTML and CSS exclusively, showcasing clean and efficient coding practices for ease of maintenance.
 
-
 To customize the website according to your needs, you can:
 
 Modify the HTML structure in the index.html file to change the content and layout.
